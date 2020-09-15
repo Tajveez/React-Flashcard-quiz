@@ -5,8 +5,8 @@ import FlashcardList from "./components/FlashcardList";
 function App() {
   return (
     <div className="App">
-      <Flashcard />
       <FlashcardList />
+      <Flashcard />
       <h1>Hello World</h1>
     </div>
   );
